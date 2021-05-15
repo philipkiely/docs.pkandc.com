@@ -1,0 +1,21 @@
+site_name: PK&C Docs
+nav:
+    - index.md
+    - "About":
+      - "Narrative History": "about/narrative.md"
+      - "Financial Performance": "about/financials.md"
+    - "Lines of Business":
+      - "Info Products": "lines_of_business/info_products.md"
+      - "Services": "lines_of_business/services.md"
+      - "Websites": "lines_of_business/websites.md"
+    - "Technology":
+      - "Stack": "technology/stack.md"
+      - "Open Source Policy": "technology/open_source.md"
+      - "Design System": "technology/design_system.md"
+    - "Writing":
+      - "Style Guide": "writing/style_guide.md"
+    - "Resources":
+      - "Ecommerce": "resources/ecommerce.md"
+      - "Git": "resources/git.md"
+
+theme: readthedocs
