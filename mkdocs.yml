@@ -9,13 +9,14 @@ nav:
       - "Services": "lines_of_business/services.md"
       - "Websites": "lines_of_business/websites.md"
     - "Technology":
+      - "Development Environment": "technology/dev_env.md"
       - "Stack": "technology/stack.md"
       - "Open Source Policy": "technology/open_source.md"
       - "Design System": "technology/design_system.md"
     - "Writing":
       - "Style Guide": "writing/style_guide.md"
+      - "Formatting": "writing/formatting.md"
     - "Resources":
       - "Ecommerce": "resources/ecommerce.md"
       - "Git": "resources/git.md"
-
 theme: readthedocs
